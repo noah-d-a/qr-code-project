@@ -11,8 +11,6 @@ This is a solution to the [QR Code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### Overview
 
 ## Screenshot
@@ -23,7 +21,7 @@ This is a solution to the [QR Code component challenge on Frontend Mentor](https
 ## Links
 
 - Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [](https://noah-d-a.github.io/qr-code-project/)
 
 ### My process
 
